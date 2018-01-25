@@ -1,0 +1,47 @@
+# build
+*.gcno
+*.o
+*.la
+*.lo
+*.loT
+*.pc
+.autotools
+.deps/
+.dirstamp
+.libs/
+.settings/
+aclocal.m4
+autom4te.cache/
+build/
+config.guess
+config.h.in
+config.log
+config.status
+config.sub
+configure
+depcomp
+Doxyfile
+install-sh
+INSTALL
+libtool
+ltmain.sh
+missing
+Makefile
+Makefile.in
+
+# eclipse env files
+.cproject
+.project
+xconfigure
+
+# merge stuff
+*.orig
+
+#vi tmp
+*~
+*.swp
+
+# youcompleteme
+.ycm_extra_conf.py*
+
+
