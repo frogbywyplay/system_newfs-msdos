@@ -6,7 +6,7 @@
 # of Wyplay.
 #
 AC_PREREQ(2.63)
-AC_INIT([newfs_msdos], [0.0.1])
+AC_INIT([newfs_msdos], [1.0.1])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 
 # Check for programs
